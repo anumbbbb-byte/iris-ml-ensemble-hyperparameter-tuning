@@ -75,3 +75,6 @@ models.
 ---
 
 ⭐ If you find this project useful, feel free to explore the notebook.
+## Results
+
+Detailed model results can be found [here](results.md).
